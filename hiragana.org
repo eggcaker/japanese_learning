@@ -1,4 +1,4 @@
-* Japanese Hiragana List                                              :cards:
+* 平仮名リスト
 ** あ、ア
 a
 ** い、イ
@@ -213,3 +213,18 @@ rya
 ryu
 ** りょ
 ryo
+
+* 平仮名の筆順
+  #+ATTR_ORG: :width 800
+[[./images/table_hiragana.png]]
+  
+* 平仮名の由来
+#+ATTR_ORG: :width 600
+[[./images/source_hiragana.png]] 
+
+* 片仮名の由来
+#+ATTR_ORG: :width 600
+[[./images/ktakana_source.png]]
+* 片仮名の書き順
+  #+ATTR_ORG: :width 800
+  [[./images/table_katakana.png]]
